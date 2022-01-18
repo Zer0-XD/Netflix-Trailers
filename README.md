@@ -1,7 +1,7 @@
 <h1> Netflix Trailer Frontend Web App </h1>
 <p> React based web app with netflix style UI and trailers on clicking the movie poster  </P
 
-<a align="center"  href="https://netflix-clone-e92f0.web.app/" >DEMO</a>
+<a align="center" target="_blank"  href="https://netflix-clone-e92f0.web.app/" >DEMO</a>
 
 ## TODO 
 
